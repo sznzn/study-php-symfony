@@ -1,7 +1,3 @@
-This is a title
-===============
-subtitle
---------
-# Hello Git and Github
+# 用来记录学习Symfony的一些进程
 
-## 练习Markdown 
+## 初级初级的程序员，很小白，抛砖引玉
