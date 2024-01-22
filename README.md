@@ -5,4 +5,4 @@ Symfony 的中文资料，互联网上几乎没有。所以自己扒官方文档
 [SymfonyCasts](https://symfonycasts.com/) 一个付费的视频学习Symfony的网站。
 
 ---
-[Markdown的语法记录]()
+[Markdown的语法记录](https://github.com/sznzn/study-php-symfony/blob/main/Readme-Markdown.md)
