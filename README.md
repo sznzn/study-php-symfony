@@ -5,6 +5,7 @@ Symfony 的中文资料，互联网上几乎没有。所以自己扒官方文档
 
 
 [Symfony指导教程 The Fast Track](https://symfony.com/book) 版本 6
+
 [SymfonyCasts](https://symfonycasts.com/) 一个付费的视频学习Symfony的网站。
 
 ---
