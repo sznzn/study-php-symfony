@@ -1,7 +1,8 @@
-# 用来记录学习Symfony的一些进程
-初级初级的程序员，很小白，抛砖引玉。
+# 用来记录学习PHP和Symfony的一些进程
+Symfony 的中文资料，互联网上几乎没有。所以自己扒官方文档慢慢学吧。以此作为记录。
+[Symfony的官网](https://symfony.com/)
+[Symfony指导教程 The Fast Track](https://symfony.com/book) 版本 6 
+[SymfonyCasts](https://symfonycasts.com/) 一个付费的视频学习Symfony的网站。
 
-先学好PHP挺重要的，但对我来说，学会写点小代码不难，但学好不容易。
-所以都同时进行了。重新再学习下PHP，同时一点点学习Symfony。
-基本没有什么中文教程。 尤其是Symfony，跟着官方文档一点点扒，一点点试了。
-祝我好运，像大佬看齐！
+---
+[Markdown的语法记录]()
