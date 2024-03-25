@@ -1,4 +1,4 @@
-# 用来记录学习PHP和Symfony的一些进程
+# 用来记录学习Symfony的一些进程
 Symfony 的中文资料，互联网上几乎没有。所以自己扒官方文档慢慢学吧。以此作为记录。
 
 [Symfony的官网](https://symfony.com/)
@@ -9,4 +9,5 @@ Symfony 的中文资料，互联网上几乎没有。所以自己扒官方文档
 [SymfonyCasts](https://symfonycasts.com/) 一个付费的视频学习Symfony的网站。
 
 ---
-[Markdown的语法记录](https://github.com/sznzn/study-php-symfony/blob/main/Readme-Markdown.md)
+最近发现一个很好的学习symfony的视频，Version 6, 不过是法语版本
+[Apprendre #Symfony 6 (Cours complet de 12h)](https://www.youtube.com/watch?v=3K6oBiQK8aA&list=WL&index=4&t=7s)
